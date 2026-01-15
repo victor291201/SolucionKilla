@@ -4,6 +4,10 @@ https://victor291201.github.io/frontend-Angular/iniciar-sesion
 link del repositorio:
 https://github.com/victor291201/SolucionKilla
 
+TAMBIEN HAY UN USUARIO CREADO CON ESTAS CREDENCIALES:
+nombre de usuario: victor
+contraseña: 123
+TAMBIEN PUEDEN CREAR SU PROPIO USUARIO UTILIZANDO LA VISTA DE REGISTRARSE
 
 ● Requisitos previos (versiones de Python, Node, etc.)
   frontend:
