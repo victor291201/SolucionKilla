@@ -10,10 +10,10 @@ contraseña: 123<br />
 TAMBIEN PUEDEN CREAR SU PROPIO USUARIO UTILIZANDO LA VISTA DE REGISTRARSE<br />
 <br />
 -  Requisitos previos (versiones de Python, Node, etc.)<br />
-  - frontend:<br />
+   - frontend:<br />
     1.angular:21.1.0<br />
     2.node: 20.19.5<br />
-  - backend:<br />
+   - backend:<br />
     1.python:3.13.7<br />
 - Pasos para instalar dependencias<br />
   - frontend:<br />
