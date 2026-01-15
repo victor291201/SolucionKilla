@@ -9,7 +9,7 @@ nombre de usuario: victor<br />
 contraseña: 123<br />
 TAMBIEN PUEDEN CREAR SU PROPIO USUARIO UTILIZANDO LA VISTA DE REGISTRARSE<br />
 <br />
-● Requisitos previos (versiones de Python, Node, etc.)<br />
+- ● Requisitos previos (versiones de Python, Node, etc.)<br />
   - frontend:<br />
     1.angular:21.1.0<br />
     2.node: 20.19.5<br />
