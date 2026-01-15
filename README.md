@@ -1,6 +1,10 @@
 el sistema tiene una version desplegada en el sitio:
 https://victor291201.github.io/frontend-Angular/iniciar-sesion 
 
+link del repositorio:
+https://github.com/victor291201/SolucionKilla
+
+
 ● Requisitos previos (versiones de Python, Node, etc.)
   frontend:
     1.angular:21.1.0
